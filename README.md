@@ -1,6 +1,10 @@
 # TDBVisManagementTool1.0
 
-Name:
+AUthor:
+Dongsheng Wang: dswang2011@gmail.com
+Hongyin Zhu:  hongyin_zhu@163.com
+
+project Name:
 TDB visualized Management Tool
 
 Motivation:
