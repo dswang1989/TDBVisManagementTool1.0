@@ -1,8 +1,9 @@
 # TDBVisManagementTool1.0
 
-AUthor:
-Dongsheng Wang: dswang2011@gmail.com
-Hongyin Zhu:  hongyin_zhu@163.com
+Author:
+Dongsheng Wang (dswang2011@gmail.com)
+Hongyin Zhu (hongyin_zhu@163.com)
+Institute of Automation, CAS
 
 project Name:
 TDB visualized Management Tool
