@@ -1,0 +1,3 @@
+How to use TDB visualization Management Tool
+
+First of all, write down your local TDB file path
