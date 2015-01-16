@@ -1,8 +1,8 @@
 # TDBVisManagementTool1.0
 
 Author:
-Dongsheng Wang (dswang2011@gmail.com)
-Hongyin Zhu (hongyin_zhu@163.com)
+Dongsheng Wang (dswang2011@gmail.com),
+Hongyin Zhu (hongyin_zhu@163.com),
 Institute of Automation, CAS
 
 project Name:
